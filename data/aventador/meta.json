@@ -1,0 +1,120 @@
+{
+  "body_colors":
+  {
+    "colors":
+    [    
+      {
+        "name":"Deep Blue Pearl",
+        "value":"#102b50"
+      },
+      {
+        "name":"Pearl White",
+        "value":"#e5e6e7"
+      },
+      {
+        "name":"Night Shade",
+        "value":"#131315"
+      },
+      {
+        "name":"FIRE RED",
+        "value":"#c72c2f"
+      },
+      {
+        "name":"Blade Silver",
+        "value":"#d4d7d7"
+      },
+      {
+        "name":"AMBER-ORANGE",
+        "value":"#c9551a"
+      }
+    ],
+    "target":"Mt_Body"
+  },
+    
+"interior_colors":
+  {
+    "colors":
+    [    
+      {
+        "name":"Light Grey",
+        "value":"#999999"
+      },
+      {
+        "name":"Dark Grey",
+        "value":"#666666"
+      }
+    ],
+    "target":"Mt_Interior_Black"
+  },
+  "mirror_colors":
+  {
+    "colors":
+    [
+      {
+        "name":"Black",
+        "value":"#121212"
+      }
+    ],
+    "target":"Mt_MirrorCover"
+  },  
+  "wheel_designs":
+  {
+    "designs":
+    [
+      {
+        "name":"Type A",
+        "value":"Obj_Rim_T0A",
+        "thumb":"Render_Tyre_0A.png"
+      },
+      {
+        "name":"Type B",
+        "value":"Obj_Rim_T0B",
+        "thumb":"Render_Tyre_0B.png"
+      }
+    ]
+  },
+  "wheel_colors":
+  {
+    "colors":
+    [
+      {
+        "name":"Black",
+        "value":"#000000"
+      },
+      {
+        "name":"Grey",
+        "value":"#4C5457"
+      },
+      {
+        "name":"Metalic",
+        "value":"#dddddd"
+      }
+    ],
+    "target":"Mt_AlloyWheels"
+  },
+  
+  "caliper_colors":
+  {
+    "colors":
+    [
+      {
+        "name":"Red",
+        "value":"#990000"
+      },
+      {
+        "name":"Yellow",
+        "value":"#E9A435"
+      },
+      { 
+          "name":"Black",
+        "value":"#000000"
+      },
+      {
+        "name":"White",
+        "value":"#F1F7F7"
+      }
+    ],
+    "target":"Mt_BrakeCaliper"
+  }
+  
+}
